@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "dictionaryUrl": "https://raw.githubusercontent.com/yourusername/emotion-compass-updates/main/dictionary.json",
+  "promptsUrl": "https://raw.githubusercontent.com/yourusername/emotion-compass-updates/main/prompts.json",
+  "referencesUrl": "https://raw.githubusercontent.com/yourusername/emotion-compass-updates/main/references.json"
+}
